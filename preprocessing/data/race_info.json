@@ -1,0 +1,29 @@
+{
+  "event": {
+    "name": "Italian Grand Prix",
+    "year": 2024,
+    "circuit": "Monza",
+    "country": "Italy",
+    "date": "2024-09-01",
+    "totalLaps": 53,
+    "totalDrivers": 20
+  },
+  "weather_summary": {
+    "avgAirTemp": 33.1,
+    "maxAirTemp": 34.1,
+    "minAirTemp": 32.2,
+    "avgTrackTemp": 49.3,
+    "maxTrackTemp": 54.6,
+    "rainfall": false
+  },
+  "safety_car": {
+    "sc_laps": [],
+    "vsc_laps": []
+  },
+  "as_index": {
+    "rows": 1008,
+    "dimensions": 29,
+    "AS": 29232,
+    "in_range": true
+  }
+}
